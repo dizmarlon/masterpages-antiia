@@ -1,4 +1,4 @@
-# Master Landing Page Skill
+# Master Pages Landing Page ANTI IA Skill
 
 Skill para Claude Code que cria landing pages premium com design autêntico — sem cara de IA.
 
