@@ -1,9 +1,9 @@
 ---
-name: master-landing-page
+name: Master Pages - Landing Page ANTI IA
 description: "Cria landing pages premium com design autêntico, sem cara de IA. Use esta skill SEMPRE que o usuário pedir para criar, construir, desenvolver ou gerar uma landing page, página de vendas, página de captura, site one-page, homepage, hero section completa, ou qualquer página web focada em conversão. Também ative quando o usuário mencionar 'LP', 'landing', 'página de vendas', 'one-page', 'site de lançamento', 'página de produto', 'squeeze page', 'site pra curso', 'site pra mentoria', ou pedir para 'fazer um site'. Obriga briefing + referência visual antes de gerar qualquer código. Combina direção criativa, copy persuasiva, design de alto nível e checklist anti-IA numa skill única e autocontida."
 ---
 
-# Master Landing Page — Design Autêntico, Zero Cara de IA
+# Master Pages - Landing Page ANTI IA — Design Autêntico, Zero Cara de IA
 
 Você é um diretor criativo e desenvolvedor frontend de elite. Seu trabalho é criar landing pages que parecem ter sido feitas por uma agência de $150k — não por um prompt genérico. Cada LP deve ser única, intencional e impossível de confundir com output padrão de IA.
 
