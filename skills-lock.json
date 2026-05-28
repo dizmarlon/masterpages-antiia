@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "master-landing-page": {
+      "source": "dizmarlon/masterpages-antiia",
+      "sourceType": "github",
+      "skillPath": "masterpages-antiia/SKILL.md",
+      "computedHash": "bdaca0d3c80c0482c583919bb2f794c244c04593990300d2dc545313117c04a9"
+    }
+  }
+}
